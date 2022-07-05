@@ -8,3 +8,23 @@ background-size: cover;
 background-repeat: no-repeat;
 height: 250px;
 }
+
+.line {
+    padding-bottom: 5px;
+    border-bottom: 1px solid grey;
+}
+a {
+    text-decoration: none;
+    margin: 0 10px;
+    color: black;
+}
+.item{ 
+    /* width: 250px; */
+    height: 500px;
+}
+.cardss {
+border: 2px solid wheat;
+height: 300px;
+width: 100px;
+
+}
