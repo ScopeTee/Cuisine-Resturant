@@ -34,9 +34,7 @@ color: orange;
 
 .lass >img {
     padding: 0 25%;
-}
-.lass {
-    
+    border-radius: 50%;
 }
 
 .attribution { 
