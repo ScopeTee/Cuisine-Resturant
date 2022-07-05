@@ -1,3 +1,10 @@
-nav {
-    text-align: center;
+.bg-img {
+background-color: rgb(238, 238, 238);
+}
+.bg-imgs {
+
+background-image: url(../Cuisine/IMG_0959.JPG);
+background-size: cover;
+background-repeat: no-repeat;
+height: 250px;
 }
