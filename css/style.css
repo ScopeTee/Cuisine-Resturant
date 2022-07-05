@@ -31,3 +31,28 @@ width: 100px;
     font-weight: bold;
 color: orange;
 }
+
+.lass >img {
+    padding: 0 25%;
+}
+.lass {
+    
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.attribution span {
+    color: white;
+}
+
+/* @media (max-width: 575.98px) {
+    nav a {
+        display: block;
+        color: red;
+    }
+} */
